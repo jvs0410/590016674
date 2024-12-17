@@ -1,9 +1,9 @@
 # Repository for SAP ID 590016176
 
-**Submitted by:** Kumkum Malhotra  
+**Submitted by:** Jaivardhan Singh
 **Submitted To:** Dr. Prateek Raj Gautam  
-**SAP ID:** 590016176  
-**Hackerrank username:-@malhotrakumkum20**
+**SAP ID:** 590016674
+**Hackerrank username:-@jaivardhan0410**
 
 ## Description
 This repository contains various projects related to data visualization, file manipulation, and application development in Python. It serves as a portfolio to showcase my work and skills in programming and data analysis.
